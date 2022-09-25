@@ -1,0 +1,2 @@
+After running the main loop for three different resolutions, what we observe is that the surface area
+is decreasing toward a value which in should be the limit of that computed serie
